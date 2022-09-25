@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DataBindingExercice.MainPage">
+
+    <StackLayout>
+        <Frame HasShadow="True" BackgroundColor="#2196F3" Padding="24" CornerRadius="10">
+            <Label Text="DataBinding Exercise" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Frame  >
+            <Label  Text =" hello" x:Name="quoteLabel" FontSize="{Binding Value}"
+                       BindingContext="{Reference sizeSlider}"
+                       HorizontalTextAlignment="Center"/>
+
+        </Frame>
+        <Frame   HorizontalOptions="Fill">
+            
+            <StackLayout HorizontalOptions="Fill"
+                         >
+                
+                <Button Text="NEXT" 
+                        FontSize="20" 
+                        BackgroundColor="Gray" 
+                        TextColor="Black" 
+                        Clicked="Button_Clicked"
+                        
+                        HorizontalOptions="Fill"/>
+                <Slider Maximum="40"
+                        Minimum="10"
+                        ValueChanged="sizeSlider_ValueChanged"
+                        MinimumTrackColor="Cyan"
+                        x:Name="sizeSlider"
+                        />
+                <Label Text="Font Size: " FontSize="30" x:Name="sizeLabel"/>
+                <Slider Maximum="2"
+                        MinimumTrackColor="Cyan"
+                        ValueChanged="Slider_ValueChanged"/>
+
+            </StackLayout>
+        </Frame>
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,15 @@
+C:\Users\tchou\Documents\Work\C#\Mobile\DataBindingExercice\DataBindingExercice\bin\Debug\netstandard2.0\DataBindingExercice.deps.json
+C:\Users\tchou\Documents\Work\C#\Mobile\DataBindingExercice\DataBindingExercice\bin\Debug\netstandard2.0\DataBindingExercice.dll
+C:\Users\tchou\Documents\Work\C#\Mobile\DataBindingExercice\DataBindingExercice\bin\Debug\netstandard2.0\DataBindingExercice.pdb
+C:\Users\tchou\Documents\Work\C#\Mobile\DataBindingExercice\DataBindingExercice\obj\Debug\netstandard2.0\DataBindingExercice.csproj.AssemblyReference.cache
+C:\Users\tchou\Documents\Work\C#\Mobile\DataBindingExercice\DataBindingExercice\obj\Debug\netstandard2.0\DataBindingExercice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchou\Documents\Work\C#\Mobile\DataBindingExercice\DataBindingExercice\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\tchou\Documents\Work\C#\Mobile\DataBindingExercice\DataBindingExercice\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\tchou\Documents\Work\C#\Mobile\DataBindingExercice\DataBindingExercice\obj\Debug\netstandard2.0\DataBindingExercice.AssemblyInfoInputs.cache
+C:\Users\tchou\Documents\Work\C#\Mobile\DataBindingExercice\DataBindingExercice\obj\Debug\netstandard2.0\DataBindingExercice.AssemblyInfo.cs
+C:\Users\tchou\Documents\Work\C#\Mobile\DataBindingExercice\DataBindingExercice\obj\Debug\netstandard2.0\DataBindingExercice.csproj.CoreCompileInputs.cache
+C:\Users\tchou\Documents\Work\C#\Mobile\DataBindingExercice\DataBindingExercice\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\tchou\Documents\Work\C#\Mobile\DataBindingExercice\DataBindingExercice\obj\Debug\netstandard2.0\DataBindingExercice.dll
+C:\Users\tchou\Documents\Work\C#\Mobile\DataBindingExercice\DataBindingExercice\obj\Debug\netstandard2.0\refint\DataBindingExercice.dll
+C:\Users\tchou\Documents\Work\C#\Mobile\DataBindingExercice\DataBindingExercice\obj\Debug\netstandard2.0\DataBindingExercice.pdb
+C:\Users\tchou\Documents\Work\C#\Mobile\DataBindingExercice\DataBindingExercice\obj\Debug\netstandard2.0\ref\DataBindingExercice.dll
